@@ -24,9 +24,9 @@ preview_id = ""  # Replace with your actual KV preview ID
 
 
 # Analytics Engine
-# [[analytics_engine_datasets]]
-# binding = "ANALYTICS"
-# dataset = "openshortlink-analytics"
+[[analytics_engine_datasets]]
+binding = "ANALYTICS"
+dataset = "openshortlink-analytics"
 
 
 # Environment variables
